@@ -1,0 +1,77 @@
+
+.login-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh; /* Ensure full viewport height */
+    background: linear-gradient(to bottom right, #2980b9, #8e44ad); /* Gradient background */
+    overflow: hidden; /* Hide overflow for animation */
+    font-family: 'Arial', sans-serif;
+  }
+  
+  .login-box {
+    background-color: rgba(255, 255, 255, 0.9); /* Semi-transparent white background */
+    padding: 40px;
+    border-radius: 10px;
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.2);
+    text-align: center;
+    animation: fadeIn 1s ease-in-out; /* Fade-in animation */
+  }
+  
+  .login-box h2 {
+    color: #3498db;
+    margin-bottom: 20px;
+  }
+  
+  .input-group {
+    margin-bottom: 20px;
+    text-align: left; /* Align labels to the left */
+  }
+  
+  .input-group label {
+    display: block;
+    margin-bottom: 5px;
+    color: #7f8c8d;
+  }
+  
+  .login-box input[type="text"],
+  .login-box input[type="password"] {
+    width: calc(100% - 22px);
+    padding: 10px;
+    border: 1px solid #bdc3c7;
+    border-radius: 5px;
+    box-sizing: border-box;
+    transition: border-color 0.3s;
+  }
+  
+  .login-box input[type="text"]:focus,
+  .login-box input[type="password"]:focus {
+    border-color: #3498db;
+    outline: none;
+    box-shadow: 0 0 5px rgba(52, 152, 219, 0.3);
+  }
+  
+  .login-box button {
+    background-color: #3498db;
+    color: white;
+    padding: 12px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s;
+  }
+  
+  .login-box button:hover {
+    background-color: #2980b9;
+  }
+  
+  @keyframes fadeIn {
+    from {
+      opacity: 0;
+      transform: translateY(-20px);
+    }
+    to {
+      opacity: 1;
+      transform: translateY(0);
+    }
+  }
