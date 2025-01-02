@@ -1,11 +1,9 @@
 https://www.loom.com/share/679c5fdde319445b94fc66942bb3df0e?sid=42e16203-5e03-4774-a810-74bc4cda1812
-![image](https://github.com/user-attachments/assets/ea8fa731-4697-43d2-bbf8-2589fe581aa4)
-![image](https://github.com/user-attachments/assets/0e21fffa-4f38-44a2-8d14-616c2ea71058)
-![image](https://github.com/user-attachments/assets/12fb92db-268e-459c-b736-1ab38fa414ba)
-![image](https://github.com/user-attachments/assets/12911667-420a-4754-bd02-1118471061ec)
+
 ![image](https://github.com/user-attachments/assets/6992e7c3-6000-46d7-a903-bde316e62648)
 # Branch Management System - React Application
-![Uploading image.png…]()
+![image](https://github.com/user-attachments/assets/c8c5d4b0-6260-41ef-94b9-f79a5d21715e)![Uploading image.png…]()
+
 
 This project is a React-based web application designed for efficient management of branch information. It provides a user-friendly interface to view, add, edit, delete, export, and filter branch data. The application leverages Material UI components for a modern and responsive design, and integrates with external libraries for data export functionalities.
 
