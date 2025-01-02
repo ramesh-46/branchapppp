@@ -5,6 +5,7 @@ https://www.loom.com/share/679c5fdde319445b94fc66942bb3df0e?sid=42e16203-5e03-47
 ![image](https://github.com/user-attachments/assets/12911667-420a-4754-bd02-1118471061ec)
 ![image](https://github.com/user-attachments/assets/6992e7c3-6000-46d7-a903-bde316e62648)
 # Branch Management System - React Application
+![Uploading image.png…]()
 
 This project is a React-based web application designed for efficient management of branch information. It provides a user-friendly interface to view, add, edit, delete, export, and filter branch data. The application leverages Material UI components for a modern and responsive design, and integrates with external libraries for data export functionalities.
 
